@@ -76,6 +76,7 @@
         %{ocaml-config:standard_library}/list.cmi
         %{ocaml-config:standard_library}/map.cmi
         %{ocaml-config:standard_library}/marshal.cmi
+        %{ocaml-config:standard_library}/obj.cmi
         %{ocaml-config:standard_library}/pervasives.cmi
         %{ocaml-config:standard_library}/printexc.cmi
         %{ocaml-config:standard_library}/printf.cmi
